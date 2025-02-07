@@ -1,59 +1,48 @@
 # Portfolio Tracker
 
-## What is Portfolio Tracker?
+Effortlessly manage your investments with Portfolio Tracker, a free and intuitive Google Sheet designed for asset allocation tracking and simplified rebalancing.
 
-Portfolio Tracker is a free and easy-to-use Google Sheet designed to help you manage your investment portfolio. Its primary focus is on asset allocation tracking, providing valuable insights into your holdings.
+Download the latest version: [Releases](https://github.com/danbuchal/portfolio-tracker/releases)
 
-The sheet also includes helpful tools to simplify the often-complex process of rebalancing your portfolio.
+## Key Features
 
-Visit [Releases](https://github.com/danbuchal/portfolio-tracker/releases) to download current (and past releases).
+* **Interactive Dashboard:** Visualize your asset allocation at a glance and gain valuable insights into your portfolio's composition.
+* **Near Real-Time Quotes:** Stay up-to-date with market data (delayed up to 20 minutes).
+* **Organized Table Views:**  Pre-defined views help you quickly analyze your holdings from different perspectives.
+* **Collapsible Column Groups:**  Show or hide detailed information as needed, keeping your view clean and focused.
+* **Completely Free:** Portfolio Tracker is FREE to use.  
+  If you wish to support its development [buy me a coffee](https://buymeacoffee.com/danbuchal)!
 
-## Features
+  [![buy me a coffee](assets/images/bmc-button.png)](https://buymeacoffee.com/danbuchal)
 
-- Convenient **Dashboard** to visualize asset allocation and to provide valuable insights.
-- **Near Realtime** Quote Updates (delayed up to 20 minutes)
-- Pre-defined **Table Views** to organize your data
-- **Column Groups** (detailed info when you need it; simplified view when you don’t!)
-- **Portfolio Tracker** is completely **FREE** to use.  
-    If you find value in this spreadsheet and wish to support me, please consider "buying me a coffee".  
-    [![buy me a coffee](assets/images/bmc-button.png)](https://buymeacoffee.com/danbuchal)
+## The Story Behind Portfolio Tracker
 
-## History
+Ten years ago, I created the first version of Portfolio Tracker for my personal use.  I shared it with Rob Berger (former owner of DoughRoller), and the response was incredible!  He generously shared it with his audience, and it became the top Google search result for "best investment tracking spreadsheet" ([link](https://www.google.com/search?q=best+investment+tracking+spreadsheet)).  Rob has featured it in numerous articles, podcasts ([link](http://traffic.libsyn.com/doughroller/DR_179--Free_Investment_Tracking_Spreadsheet.mp3?dest-id=168596)) and YouTube videos ([link](https://youtu.be/l8vrmBIzICE?si=tEFLBzc8b_WzA7Jl)).  You can also find his version here: [Rob Berger's Investment Tracking Spreadsheet](https://robberger.com/investment-tracking-spreadsheet/)
 
-I created the first version of Portfolio Tracker for my own use 10 years ago.  
-At the time I was listening to a Podcast called DoughRoller hosted by Rob Berger.  
-I sent the original version of this spreadsheet to him on March 5th, 2015 and since that time the response has been **amazing**.
+## Reimagined for Today
 
-Rob asked my permission to use my spreadsheet and to distribute it to his readers/listeners.  
-He stripped down some of the functionality and has made small tweaks throughout the years, but what he [distributes today](https://robberger.com/investment-tracking-spreadsheet/) is largely the _same_ spreadsheet I sent him so long ago.  
-His article is still the **#1** Google Search Result for “[Best Investment Tracking Spreadsheet](https://www.google.com/search?q=best+investment+tracking+spreadsheet)”
+Leveraging the latest Google Sheets features, I completely rebuilt Portfolio Tracker from the ground up in late 2024.  This new version offers an even more powerful and intuitive way to manage your portfolio.  While I may not have Rob's reach, I'm excited to share this improved tool with you and hope it provides the same clarity and control over your asset allocation that it gives me.
 
-Since that time, he has written numerous articles, mentioned it on his [podcast](http://traffic.libsyn.com/doughroller/DR_179--Free_Investment_Tracking_Spreadsheet.mp3?dest-id=168596) and created [videos](https://youtu.be/l8vrmBIzICE?si=tEFLBzc8b_WzA7Jl) about it on his [YouTube Channel](https://www.youtube.com/@rob_berger).
+## Stay Updated
 
-## Today
+Be sure to star this repository to stay up-to-date!
+You will find new releases [here](https://github.com/danbuchal/portfolio-tracker/releases).
 
-Since the day I created the initial version, Google Sheets has added some features. That got me thinking about updating Portfolio Tracker and making it something truly great.  
-I started from scratch at the end of 2024 and completely re-imagined it with some of the new Google Sheets features in mind.
+## Feedback Welcome!
 
-I certainly have nowhere near the audience that Rob has, but, this time I decided to “go it alone” and put myself out in the world. I’m truly proud of what I created and it has really helped me get an overview of my asset allocation in a way that I could not before. I _hope_ it can do the same for you\!
+I value your feedback!  Please [contact me](mailto:portfoliotracker@buchal.dev) with:
 
-## New Releases
+* Feature requests
+* Comments
+* Questions
+* Bug reports*
 
-To stay up-to-date on New Releases visit the [Changelog](https://buymeacoffee.com/danbuchal/portfolio-tracker-changelog).
+*Issues may be also be submitted [here](https://github.com/danbuchal/portfolio-tracker/issues).
 
-## Feedback
+## Important Disclaimer
 
-I love hearing from users\! Feel free to [Contact Me](mailto:portfoliotracker@buchal.dev) with:
-
-- Feature Requests
-- Comments
-- Questions
-- Issues
-
-## Disclaimer
-
-- I am _not_ an investment professional. Portfolio Tracker does not contain any investment advice or recommendations.
-- Calculations in Portfolio Tracker are not _guaranteed_ (please [let me know](mailto:portfoliotracker@buchal.dev) if you find errors)
-- The sample portfolio that is provided is completely fictitious and is not a recommendation.
-- Information is provided 'as is' and solely for informational purposes, not for trading purposes or advice.
-- Do your own research before executing any trades based on information obtained from Portfolio Tracker.
+* I am not an investment professional. Portfolio Tracker does not provide investment advice or recommendations.
+* The accuracy of calculations is not guaranteed. Please [report any errors](mailto:portfoliotracker@buchal.dev).
+* The sample portfolio is for illustrative purposes only and is not a recommendation.
+* Information is provided 'as is' and solely for informational purposes, not for trading purposes or advice.
+* Conduct your own research before making any investment decisions based on information from Portfolio Tracker.
