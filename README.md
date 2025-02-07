@@ -4,9 +4,9 @@
 
 Portfolio Tracker is a free and easy-to-use Google Sheet designed to help you manage your investment portfolio. Its primary focus is on asset allocation tracking, providing valuable insights into your holdings.
 
-The sheet also includes helpful tools to simplify the often-complex process of rebalancing your portfolio. This guide will be your _go-to_ resource for information on how to use Portfolio Tracker and will be updated regularly with announcements of _new releases_.
+The sheet also includes helpful tools to simplify the often-complex process of rebalancing your portfolio.
 
-Check back often to stay up-to-date on new features\!
+Visit [Releases](https://github.com/danbuchal/portfolio-tracker/releases) to download current (and past releases).
 
 ## Features
 
