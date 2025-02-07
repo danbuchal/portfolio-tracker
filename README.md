@@ -13,20 +13,20 @@ Check back often to stay up-to-date on new features\!
 - Convenient **Dashboard** to visualize asset allocation and to provide valuable insights.
 - **Near Realtime** Quote Updates (delayed up to 20 minutes)
 - Pre-defined **Table Views** to organize your data
-- **Column Groups** (detailed info when you need it; simplified view when you don’t\!)
+- **Column Groups** (detailed info when you need it; simplified view when you don’t!)
 - **Portfolio Tracker** is completely **FREE** to use.  
     If you find value in this spreadsheet and wish to support me, please consider "buying me a coffee".  
-    [![][image2]](https://buymeacoffee.com/danbuchal)
+    [![buy me a coffee](assets/images/bmc-button.png)](https://buymeacoffee.com/danbuchal)
 
 ## History
 
 I created the first version of Portfolio Tracker for my own use 10 years ago.  
 At the time I was listening to a Podcast called DoughRoller hosted by Rob Berger.  
-I sent the original version of this spreadsheet to him on March 5th, 2015 and since that time the response has been **\*amazing**.\*
+I sent the original version of this spreadsheet to him on March 5th, 2015 and since that time the response has been **amazing**.
 
 Rob asked my permission to use my spreadsheet and to distribute it to his readers/listeners.  
 He stripped down some of the functionality and has made small tweaks throughout the years, but what he [distributes today](https://robberger.com/investment-tracking-spreadsheet/) is largely the _same_ spreadsheet I sent him so long ago.  
-His article is still the \#1 Google Search Result for “[Best Investment Tracking Spreadsheet](https://www.google.com/search?q=best+investment+tracking+spreadsheet)”
+His article is still the **#1** Google Search Result for “[Best Investment Tracking Spreadsheet](https://www.google.com/search?q=best+investment+tracking+spreadsheet)”
 
 Since that time, he has written numerous articles, mentioned it on his [podcast](http://traffic.libsyn.com/doughroller/DR_179--Free_Investment_Tracking_Spreadsheet.mp3?dest-id=168596) and created [videos](https://youtu.be/l8vrmBIzICE?si=tEFLBzc8b_WzA7Jl) about it on his [YouTube Channel](https://www.youtube.com/@rob_berger).
 
