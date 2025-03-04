@@ -10,20 +10,21 @@ Download the latest version: [Releases](https://github.com/danbuchal/portfolio-t
 
 * **Interactive Dashboard:** Visualize your asset allocation at a glance and gain valuable insights into your portfolio's composition.
 * **Near Real-Time Quotes:** Stay up-to-date with market data (delayed up to 20 minutes).
-* **Organized Table Views:**  Pre-defined views help you quickly analyze your holdings from different perspectives.
-* **Collapsible Column Groups:**  Show or hide detailed information as needed, keeping your view clean and focused.
+* **Organized Table Views:** Pre-defined views help you quickly analyze your holdings from different perspectives.
+* **Collapsible Column Groups:** Show or hide detailed information as needed, keeping your view clean and focused.
+* **Multiple Classes / Asset**: Track allocation of funds/assets having more than one asset class (e.g. Target Date Funds).
 * **Completely Free:** Portfolio Tracker is FREE to use.  
-  If you wish to support its development [buy me a coffee](https://buymeacoffee.com/danbuchal)!
+  If you wish to support its development, buy me a coffee!
 
   [![buy me a coffee](assets/images/bmc-button.png)](https://buymeacoffee.com/danbuchal)
 
 ## The Story Behind Portfolio Tracker
 
-Ten years ago, I created the first version of Portfolio Tracker for my personal use.  I shared it with Rob Berger (former owner of DoughRoller), and the response was incredible!  He generously shared it with his audience, and it became the top Google search result for "best investment tracking spreadsheet" ([link](https://www.google.com/search?q=best+investment+tracking+spreadsheet)).  Rob has featured it in numerous articles, podcasts ([link](http://traffic.libsyn.com/doughroller/DR_179--Free_Investment_Tracking_Spreadsheet.mp3?dest-id=168596)) and YouTube videos ([link](https://youtu.be/l8vrmBIzICE?si=tEFLBzc8b_WzA7Jl)).  You can also find his version here: [Rob Berger's Investment Tracking Spreadsheet](https://robberger.com/investment-tracking-spreadsheet/)
+Over ten years ago, I created the first version of Portfolio Tracker for my personal use. I shared it with Rob Berger (former owner of DoughRoller), and the response was incredible! He generously shared it with his audience, and it became the top Google search result for "[Best Investment Tracking Spreadsheet](https://www.google.com/search?q=best+investment+tracking+spreadsheet)".  Rob has featured it in numerous articles, [podcasts](http://traffic.libsyn.com/doughroller/DR_179--Free_Investment_Tracking_Spreadsheet.mp3?dest-id=168596) and YouTube [videos](https://youtu.be/l8vrmBIzICE?si=tEFLBzc8b_WzA7Jl).  You can find Rob's version [here](https://robberger.com/investment-tracking-spreadsheet/).
 
 ## Reimagined for Today
 
-Leveraging the latest Google Sheets features, I completely rebuilt Portfolio Tracker from the ground up in late 2024.  This new version offers an even more powerful and intuitive way to manage your portfolio.  While I may not have Rob's reach, I'm excited to share this improved tool with you and hope it provides the same clarity and control over your asset allocation that it gives me.
+Leveraging the latest Google Sheets features, I completely rebuilt Portfolio Tracker from the ground up in late 2024.  This new version offers an even more powerful and intuitive way to manage your portfolio. While I may not have Rob's reach, I'm excited to share this improved version with you and hope it provides the same clarity and control over your asset allocation that it gives me.
 
 ## Stay Updated
 
@@ -32,12 +33,12 @@ You will find new releases [here](https://github.com/danbuchal/portfolio-tracker
 
 ## Feedback Welcome!
 
-I value your feedback!  Please [contact me](mailto:portfoliotracker@buchal.dev) with:
+I value your feedback! Please [contact me](mailto:portfoliotracker@buchal.dev) with:
 
 * Feature requests
 * Comments
 * Questions
-* Bug reports*
+* Issues / Bug reports*
 
 *Issues may be also be submitted [here](https://github.com/danbuchal/portfolio-tracker/issues).
 
