@@ -49,3 +49,6 @@ I value your feedback! Please [contact me](mailto:portfoliotracker@buchal.dev) w
 * The sample portfolio is for illustrative purposes only and is not a recommendation.
 * Information is provided 'as is' and solely for informational purposes, not for trading purposes or advice.
 * Conduct your own research before making any investment decisions based on information from Portfolio Tracker.
+
+---
+v2.0.1
