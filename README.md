@@ -8,7 +8,7 @@ Download the latest version: [Releases](https://github.com/danbuchal/portfolio-t
 
 ## Key Features
 
-* **Interactive Dashboard:** Visualize your asset allocation at a glance and gain valuable insights into your portfolio's composition.
+* **Interactive Dashboards:** Visualize your asset allocation and accounts at a glance and gain valuable insights into your portfolio's composition.
 * **Near Real-Time Quotes:** Stay up-to-date with market data (delayed up to 20 minutes).
 * **Organized Table Views:** Pre-defined views help you quickly analyze your holdings from different perspectives.
 * **Collapsible Column Groups:** Show or hide detailed information as needed, keeping your view clean and focused.
@@ -24,7 +24,7 @@ Over ten years ago, I created the first version of Portfolio Tracker for my pers
 
 ## Reimagined for Today
 
-Leveraging the latest Google Sheets features, I completely rebuilt Portfolio Tracker from the ground up in late 2024.  This new version offers an even more powerful and intuitive way to manage your portfolio. While I may not have Rob's reach, I'm excited to share this improved version with you and hope it provides the same clarity and control over your asset allocation that it gives me.
+Leveraging the latest features available in Google Sheets, Portfolio Tracker was completely rebuilt from the ground up in late 2024. This new version offers a more powerful, intuitive, and flexible way to manage your portfolio. The goal remains the same: to provide you with clarity and control over your asset allocation.
 
 ## Stay Updated
 
@@ -51,4 +51,4 @@ I value your feedback! Please [contact me](mailto:portfoliotracker@buchal.dev) w
 * Conduct your own research before making any investment decisions based on information from Portfolio Tracker.
 
 ---
-v2.0.1
+v2.1.0
