@@ -20,7 +20,11 @@ Download the latest version: [Releases](https://github.com/danbuchal/portfolio-t
 
 ## The Story Behind Portfolio Tracker
 
-Over ten years ago, I created the first version of Portfolio Tracker for my personal use. I shared it with Rob Berger (former owner of DoughRoller), and the response was incredible! He generously shared it with his audience, and it became the top Google search result for "[Best Investment Tracking Spreadsheet](https://www.google.com/search?q=best+investment+tracking+spreadsheet)".  Rob has featured it in numerous articles, [podcasts](http://traffic.libsyn.com/doughroller/DR_179--Free_Investment_Tracking_Spreadsheet.mp3?dest-id=168596) and YouTube [videos](https://youtu.be/l8vrmBIzICE?si=tEFLBzc8b_WzA7Jl).  You can find Rob's version [here](https://robberger.com/investment-tracking-spreadsheet/).
+Over ten years ago, I created the first version of Portfolio Tracker for my personal use. I shared it with Rob Berger (former owner of DoughRoller), and the response was *incredible*! He generously shared it with his audience, and it became the top Google search result for "[Best Investment Tracking Spreadsheet](https://www.google.com/search?q=best+investment+tracking+spreadsheet)".
+
+Rob has featured Portfolio Tracker in many of his articles, podcasts, and YouTube videos. Most recently, he highlighted it in his YouTube video, [3 Essential Tools to Evaluate Your Investment Portfolio](https://www.youtube.com/watch?v=jP55dUHlIM4&t=888s).
+
+You can also find his article [here](https://robberger.com/investment-tracking-spreadsheet/).
 
 ## Reimagined for Today
 
@@ -51,4 +55,4 @@ I value your feedback! Please [contact me](mailto:portfoliotracker@buchal.dev) w
 * Conduct your own research before making any investment decisions based on information from Portfolio Tracker.
 
 ---
-v2.1.0
+v2.1.1
